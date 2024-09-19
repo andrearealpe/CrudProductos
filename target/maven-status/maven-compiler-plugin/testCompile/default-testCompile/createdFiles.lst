@@ -1,0 +1,5 @@
+co\com\hyunseda\market\domain\ProductTest.class
+co\com\hyunseda\market\service\CategoryServiceTest.class
+co\com\hyunseda\market\service\ProductServiceTest.class
+co\com\hyunseda\market\domain\CategoryTest.class
+co\com\hyunseda\market\service\ProductValidatorTest.class

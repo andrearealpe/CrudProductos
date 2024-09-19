@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: co.com.hyunseda.market.domain.ProductTest
+-------------------------------------------------------------------------------
+Tests run: 8, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.040 s -- in co.com.hyunseda.market.domain.ProductTest
